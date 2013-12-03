@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guild War2 Tracer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gw2">Gw2 Server</string>
+    <string name="title_activity_map_events">MapEventsActivity</string>
+    <string name="title_activity_events">EventsActivity</string>
+    <string name="pride_point">Pride\nPoint</string>
+    <string name="kiels_outpost">Kiel\'s\nOutpost</string>
+    <string name="steampipe_steading">Steampipe\nSteading</string>
+    <string name="camp_karka">Camp\nKarka</string>
+    <string name="unknown">Unknown</string>
+    <string name="settlement">Settlement Icon</string>
+    <string name="title_activity_main">Select your server</string>
+
+</resources>
